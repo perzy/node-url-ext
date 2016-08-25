@@ -12,8 +12,6 @@ $ npm install --save url-ext
 
 ## Usage
 
-### 初始化
-
 ```js
 var urlExt = require('url-ext');
 var url = 'http://www.xxx.com:8080/search?q=jerrywu#hello';
