@@ -1,5 +1,5 @@
 {
-  "name": "node-url-ext",
+  "name": "url-ext",
   "version": "0.1.0",
   "description": "core url lib extension",
   "main": "index.js",
