@@ -1,8 +1,7 @@
 url-ext
 ===============
 Core url lib extension. 
-
-- [![NPM version](https://badge.fury.io/js/url-ext.png)](http://badge.fury.io/js/url-ext)
+[![NPM version](https://badge.fury.io/js/url-ext.png)](http://badge.fury.io/js/url-ext)
 
 ## Installation
 
